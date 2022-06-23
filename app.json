@@ -1,7 +1,7 @@
 {
   "name": "Telegraph Uploader bot",
   "description": "An advanced simple small media or file to telegra.ph link uploader bot.",
-  "repository": "https://github.com/ItzAloneX/TelegraphUploaderBot",
+  "repository": "https://github.com/Khushdeepsandhra/TelegraphUploaderBot",
   "logo": "https://telegra.ph/file/9e8441d4638df578646c6.png",
   "keywords": ["telegram", "telegraph", "telegraphuploader","telegram bot"],
   "env": {
